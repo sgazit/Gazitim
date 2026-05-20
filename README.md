@@ -1,2 +1,2 @@
 # Gazitim
-Gazitim landing page
+Gazitim home page
